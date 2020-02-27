@@ -2,7 +2,7 @@
 
 using namespace std;
 
-public void main (){
-	cout<<"Holamundo";
+public static void  main (){
+	cout<<"Hola a todo el mundo"<<"\n"<<"Todos estan bien?";
 }
 
